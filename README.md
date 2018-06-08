@@ -1,0 +1,2 @@
+# ZQ937XRU
+xilinx_vivado_verilog_zynq7z015
